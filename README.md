@@ -7,7 +7,6 @@
 [Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
   
 </div>
-
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/rukayat-hamzat"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
